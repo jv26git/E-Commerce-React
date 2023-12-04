@@ -4,6 +4,8 @@ E-commerce creado en react js con vite en conjunto de bootstrap y firebase.
 Los componentes fueron creados usando la extensión JSX.
 Para una mayor optimización del código se han creado una serie de componentes para generar un código más limpio y con mayor escalabilidad.
 
+Para su correcta instalación, utilizar npm install o npm i
+
 ## Descripción
 
 Este E-commerce simula la venta de artículos de anime, Star Wars o una serie de productos de películas de fantasía o videojuegos, sumando algún articulo de clásicas series de televisión en su última categoría.
